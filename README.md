@@ -13,6 +13,7 @@ In order to do this, we pulled information for the months of June and December f
 <img width="133" alt="Screen Shot 2021-08-14 at 2 06 16 PM" src="https://user-images.githubusercontent.com/46773181/129459987-2604d030-9bc0-4de0-bc71-dd0a8261bcde.png">
 
 You may find a screenshot of the December temperature dataframe found below:
+
 <img width="161" alt="Screen Shot 2021-08-14 at 2 06 59 PM" src="https://user-images.githubusercontent.com/46773181/129459999-159b9297-0ee3-4596-8a13-b63b44d7e675.png">
 
 Comparing the two, we see that:
